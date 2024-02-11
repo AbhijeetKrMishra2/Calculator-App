@@ -1,3 +1,3 @@
 # Calculator-App
 
-# Hosted-Website Link : -  https://quiz-game-web-app.netlify.app/
+# Hosted-Website Link : - https://app.netlify.com/sites/calculatorwebs/configuration/general
